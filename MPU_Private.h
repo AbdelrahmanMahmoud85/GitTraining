@@ -14,6 +14,7 @@
 #define MPU_PRIVATE_H_
 
 #define WAHDAN   1
+u8 x=50;
 #include "Std_Types.h"
 
 /**
