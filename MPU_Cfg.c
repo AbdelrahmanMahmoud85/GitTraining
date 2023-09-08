@@ -11,6 +11,9 @@
  * - Abdelrahman Salah Sanad
  */
 
+#define Shehab    0
+#define Shehab_Yarab      1
+
 #include "MPU_Interface.h"
 #include "Std_Types.h"
 
