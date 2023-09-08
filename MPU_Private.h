@@ -13,6 +13,7 @@
 #ifndef MPU_PRIVATE_H_
 #define MPU_PRIVATE_H_
 
+#define WAHDAN   1
 #include "Std_Types.h"
 
 /**
