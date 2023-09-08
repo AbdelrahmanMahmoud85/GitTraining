@@ -8,7 +8,7 @@
  *
  * @section Author
  * - Shehab Abdalah
- * - Abdelrahman Sanad
+ * - Abdelrahman Salah Sanad
  */
 
 #include "MPU_Interface.h"
