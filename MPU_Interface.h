@@ -35,7 +35,7 @@
  *  - **V.1.0.0:** Initial release.
  *
  * @section Author
- * Shehab Abdalah - Abdelrahman Sanad
+ * Shehab Abdalah - Abdelrahman Salah Sanad
  *
  * @section Memory_Types Memory Types
  *
