@@ -17,6 +17,8 @@
 #include "Std_Types.h"
 
 
+/****amer GitTraining **/
+
 /**
  * @brief Used to set all memory map as the background region which can only be accessed in privileged mode.
  *        It will fire a hard fault exception in unprivileged mode.
