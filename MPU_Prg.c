@@ -15,6 +15,8 @@
 #include "MPU_Private.h"
 #include "MPU_Cfg.h"
 
+#define amer_test 1
+
 extern Attributes Peripherals;
 extern Attributes Internal_SRAM;
 extern Attributes Flash_Memory;
